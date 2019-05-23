@@ -1,0 +1,14 @@
+.container {
+    display: flex; 
+    flex: row;
+    flex-wrap: wrap; 
+}
+
+img {
+    width: 150px;
+}
+
+.animal {
+    justify-content: center;
+    flex-basis: 20%;
+}
